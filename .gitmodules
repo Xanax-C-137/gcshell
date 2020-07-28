@@ -1,0 +1,3 @@
+[submodule "simplePerlDDoS"]
+	path = simplePerlDDoS
+	url = https://github.com/gillesdubois/simplePerlDDoS
